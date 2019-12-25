@@ -46,10 +46,6 @@
 
 /* Banner Area */ 
 
-.site-main .site-banner {
-    background: url(../img/banner/home-banner.png) no-repeat 0% 50%;
-}
-
 .site-main .site-banner .site-title h3{
     padding-top: 35%;
     font-weight: 500;
